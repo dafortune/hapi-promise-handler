@@ -1,0 +1,34 @@
+{
+  "name": "hapi-promise-wrapper",
+  "version": "1.0.0",
+  "description": "Decorate Hapi route handlers so they are able to handle promises as return value",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha test/ --recursive",
+    "code": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafortune/hapi-promise-wrapper.git"
+  },
+  "keywords": [
+    "hapi",
+    "promise"
+  ],
+  "author": "Damian Andres Fortuna (aka Fortune)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dafortune/hapi-promise-wrapper/issues"
+  },
+  "homepage": "https://github.com/dafortune/hapi-promise-wrapper#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "standard": "^7.1.2"
+  },
+  "peerDepedencies": {
+    "hapi": ">=11.0.0"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
