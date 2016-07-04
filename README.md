@@ -1,5 +1,4 @@
-# Hapi promise wrapper
-[![Build Status](https://travis-ci.org/dafortune/hapi-promise-wrapper.svg?branch=master)](https://travis-ci.org/dafortune/hapi-promise-wrapper)
+# Hapi promise wrapper [![Build Status](https://travis-ci.org/dafortune/hapi-promise-wrapper.svg?branch=master)](https://travis-ci.org/dafortune/hapi-promise-wrapper)
 Wraps Hapi handlers so they are able to handle returned promises
 
 ## Installation
