@@ -1,6 +1,6 @@
 {
   "name": "hapi-promise-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decorate Hapi route handlers so they are able to handle promises as return value",
   "main": "index.js",
   "scripts": {
