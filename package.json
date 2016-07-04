@@ -23,12 +23,13 @@
   "homepage": "https://github.com/dafortune/hapi-promise-wrapper#readme",
   "devDependencies": {
     "mocha": "^2.5.3",
-    "standard": "^7.1.2"
+    "standard": "^7.1.2",
+    "chai": "^3.5.0"
   },
   "peerDepedencies": {
     "hapi": ">=11.0.0"
   },
   "dependencies": {
-    "chai": "^3.5.0"
+
   }
 }
